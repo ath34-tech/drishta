@@ -1,5 +1,5 @@
 # Drishta: Flood Prediction System
-
+Video demo of drishta: [demo](https://drive.google.com/file/d/1stnMucFT-WqV3vMjbx2gEOEn0DQpQ26R/view)
 ## Overview
 Drishta is a flood prediction system developed by **Team Syntax Syncers**. It leverages past rainfall data, river discharge rates, temperature, and other climatic factors to predict flood risks. 
 
